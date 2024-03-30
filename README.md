@@ -41,3 +41,7 @@ Welcome to the Solana Token Creator Dapp! This decentralized application (Dapp) 
   NodeJs: v18.12.1
   NPM: 8.19.2
 ```
+# Author
+
+- [@aimanibnubayd.com](https://portfolio-website1-ten.vercel.app/)
+- [@stackoverflow](https://stackoverflow.com/users/23237163/aiman-ibn-ubayd)
